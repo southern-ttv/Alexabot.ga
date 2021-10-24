@@ -1,6 +1,6 @@
 # Alexabot.ga
 
-Welcome to the Alexabot Github! Here you will see...
-Alexabots Website Code!
-And maybe a community built bot!
+Welcome to the Alexabot Github! Here you will see... \n
+Alexabots Website Code! \n
+And maybe a community built bot! \n
 Pretty cool if you dont ask me!
